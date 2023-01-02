@@ -1,5 +1,8 @@
 <h1 align="center">GP3DS's repository for Voron printer's mods</h1>
 
+ <p align="center">This is a work in progress, all files can be updated / deleted at any time</p>
+
+
 <table align="center">
   <tr>
     <td align="center">Mod name</td>
