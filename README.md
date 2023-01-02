@@ -1,14 +1,8 @@
-## This is the repository of mods created by GP3DS for Voron printers
-
-Mod name | Printer compatibility  
---- | --- 
-[Corner cable hider](https://github.com/GP3DS/Voron-Mods/tree/main/Corner_cable_Hiders) | Voron 2.4 
-[2020_Slot_Cover](https://github.com/GP3DS/Voron-Mods/tree/main/2020_Slot_Cover) | Voron 2.4
-
+## GP3DS's repository for Voron printer's mods
 
 <table align="center">
   <tr>
-    <td align="center">Mod</td>
+    <td align="center">Mod name</td>
     <td align="center">Printer compatibility</td>   
   </tr>
   <tr>
