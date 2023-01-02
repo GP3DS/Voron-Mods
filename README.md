@@ -2,6 +2,7 @@
 
 Mod name | Printer compatibility  
 --- | --- 
-[Corner cable hider](https://github.com/GP3DS/Voron-Mods/tree/main/Corner_cable_Hiders) | Voron 2.4
+[Corner cable hider](https://github.com/GP3DS/Voron-Mods/tree/main/Corner_cable_Hiders) | Voron 2.4 
+[2020_Slot_Cover](https://github.com/GP3DS/Voron-Mods/tree/main/2020_Slot_Cover) | Voron 2.4
 
 
