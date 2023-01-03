@@ -5,8 +5,9 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
 
 ![Concept_Screenshot](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Concept_screenshot.png)
 
+![In_Place](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/In_Place.jpg)
 
-Different lengths are to come. For each length, be sure to print the number of clips needed.
+
 
 
 To printing the clips, support and raft are necessary.
