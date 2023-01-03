@@ -3,19 +3,33 @@
 Creation inspired by different existing elements for cable crossings.
 We were tired of seeing the clips break with each disassembly (as rare as they may be, it's never pleasant)
 
-![Concept_Screenshot](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Concept_screenshot.png)
+<table align=center>
+  <tr>
+    <td align=center>Concept</td>
+    <td align=center>In Place</td>
+  </tr>
+  <tr>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Concept_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/In_Place.jpg" alt="1" width=300px></td>
+  </tr>
 
-![In_Place](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/In_Place.jpg)
+</table> 
+
+<table align=center>
+  <tr>
+    <td align=center colspan=3>For each dimension, you will need a base and a cover and some clips</td>
+  </tr>
+  <tr>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Base.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Cover.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/clip.png" alt="1" width=300px></td>
+  </tr>
+    <tr>
+    <td align=center colspan=3>/!\ To printing the clips, support and raft are necessary /!\ .</td>
+  </tr>
+</table> 
 
 
-
-
-To printing the clips, support and raft are necessary.
-![Clip](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/clip.png)
-
-For each dimension, you will need a base and a cover
-![Base](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Base.png)
-![Cover](https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Cover.png)
 
 # BOM
 To fix duct cables, use double-sided tape
