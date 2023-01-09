@@ -6,11 +6,11 @@ Based on Ette's work, we created this support to attach an ERCP spool directly t
 <table align=center>
   <tr>
     <td align=center>Concept</td>
-    <td align=center>In Place</td>
+    <td align=center>Parts</td>
   </tr>
   <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Concept_screenshot.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/In_Place.jpg" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_frame_mount/Images/general_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_frame_mount/Images/Parts_screenshot.png" alt="1" width=300px></td>
   </tr>
 
 
@@ -40,6 +40,8 @@ Based on Ette's work, we created this support to attach an ERCP spool directly t
     <td align=center>M5 Tnuts</td>
     <td align=center>4</td>
   </tr>
+</table>
+<table>
   <tr>
     <td colspan=2 align=center>To print</td>
   </tr> 
