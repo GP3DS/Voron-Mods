@@ -28,4 +28,9 @@
       <a href="./ERCP_frame_mount">ERCP Frame mount<br><img src="./ERCP_frame_mount/Images/general_screenshot.png" alt="1" width=300px></a></td>
     <td align="center">All Printer with 2020 Slots</td>   
   </tr>
+  <tr>
+    <td align="center">
+      <a href="./ERCP_stand_lock">ERCP stand lock<br><img src="./ERCP_stand_lock/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
+    <td align="center">Any printer who use ERCF</td>   
+  </tr>
 </table>
