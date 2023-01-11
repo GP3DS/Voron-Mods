@@ -7,10 +7,14 @@ To keep the ERCPs in place, we have created this centering wedge
   <tr>
     <td align=center>Concept</td>
     <td align=center>Parts</td>
+    <td align=center>In Place</td>
+    <td align=center>Out Place</td>
   </tr>
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_stand_lock/Images/Concept_screenshot.png" alt="1" width=300px></td>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_stand_lock/Images/Screenshot_part.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_stand_lock/Images/In_place.jpg" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_stand_lock/Images/Out_place.jpg" alt="1" width=300px></td>
   </tr>
 
 
