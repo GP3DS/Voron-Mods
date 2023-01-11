@@ -28,7 +28,7 @@ To keep the ERCPs in place, we have created this centering wedge
     <td colspan=2 align=center>Not to print (per stand lock)</td>
   </tr> 
   <tr>
-    <td align=center>Screw (FHCM3x12 or woodscrew))</td>
+    <td align=center>Screw (FHCM3x12 or woodscrew)</td>
     <td align=center>2</td>
   </tr> 
 </table>
