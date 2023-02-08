@@ -17,6 +17,7 @@ X Carriage Mini Stealthburner for V0.1 and V0.2 upgrade (MCU That does not suppo
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_X_Carriage_with_endstop/Images/Out_place.jpg" alt="1" width=300px></td>
   </tr>
 
+You may have to change the two screws of the XY attached
 
 
 # BOM
@@ -27,12 +28,5 @@ X Carriage Mini Stealthburner for V0.1 and V0.2 upgrade (MCU That does not suppo
   <tr>
     <td align=center>X_carriage_Endstoped</td>
     <td align=center>[a]_Bumper_Y_endstop</td>
-  </tr> 
-  <tr>
-    <td colspan=2 align=center>Not to print (per stand lock)</td>
-  </tr> 
-  <tr>
-    <td align=center>Screw (FHCM2x20)</td>
-    <td align=center>2</td>
-  </tr> 
+  </tr>
 </table>
