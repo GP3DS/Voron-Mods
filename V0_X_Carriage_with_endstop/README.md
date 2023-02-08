@@ -1,4 +1,4 @@
-## X Carriage for Voron V0.2 with Y ends-top
+## X Carriage for Voron V0.2 with Y endstop
 
 
 X Carriage Mini Stealthburner for V0.1 and V0.2 upgrade (MCU That does not support sensorless homing)
