@@ -22,7 +22,8 @@ This is a simple frame mount bracket for fysetc Cheetah V2.0 motherboard
     <td colspan=2 align=center>To print</td>
   </tr> 
   <tr>
-    <td colspan=2 align=center>V0_frame_mount_Cheetah_V2_bracket</td>
+    <td align=center>V0_frame_mount_Cheetah_V2_bracket</td>
+    <td align=center>1</td>
   </tr>
   <tr>
     <td colspan=2 align=center>Not to print</td>
