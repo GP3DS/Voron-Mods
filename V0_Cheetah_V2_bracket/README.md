@@ -22,7 +22,7 @@ This is a simple frame mount bracket for fysetc Cheetah V2.0 motherboard
     <td colspan=2 align=center>To print</td>
   </tr> 
   <tr>
-    <td colspan=2 align=center>V0_frame_mount_Pi_V2</td>
+    <td colspan=2 align=center>V0_frame_mount_Cheetah_V2_bracket</td>
   </tr>
   <tr>
     <td colspan=2 align=center>Not to print</td>
