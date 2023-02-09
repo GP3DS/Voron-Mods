@@ -10,7 +10,7 @@ This is a simple frame mount bracket for fysetc Cheetah V2.0 motherboard
   </tr>
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_Cheetah_V2_bracket/Images/Concept.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_Cheetah_V2_bracket/Images/In_Place.jpg" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_Cheetah_V2_bracket/Images/In_place.jpg" alt="1" width=300px></td>
   </tr>
 </table>
 
