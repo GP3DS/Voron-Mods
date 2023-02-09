@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="./V0_Pi4_bracket">RAspberri Pi 4 Bracket frame mount for V0<br><img src="./V0_Pi4_bracket/Images/Concept.png" alt="1" width=300px></a></td>
+      <a href="./V0_Pi4_bracket">Raspberri Pi 4 Bracket frame mount for V0<br><img src="./V0_Pi4_bracket/Images/Concept.png" alt="1" width=300px></a></td>
     <td align="center">Voron V0.1 and V0.2 and any printer with 2020 or 1515 Slots</td>   
   </tr>
 </table>
