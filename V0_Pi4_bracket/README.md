@@ -23,8 +23,7 @@ This is a simple frame mount bracket for raspberry Pi 4
     <td colspan=2 align=center>To print</td>
   </tr> 
   <tr>
-    <td align=center>X_carriage_Endstoped</td>
-    <td align=center>[a]_Bumper_Y_endstop</td>
+    <td colspan=2 align=center>V0_frame_mount_Pi_V2</td>
   </tr>
   <tr>
     <td colspan=2 align=center>Not to print</td>
