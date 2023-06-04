@@ -40,6 +40,66 @@ To fix duct cables, use double-sided tape
     <td align=center>For 1 cable duct</td>
   </tr>
   <tr>
+  <td colspan=2 align=center>25mm</td>
+</tr> 
+  <tr>
+    <td align=center>Base_25mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Cover_25mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Clips</td>
+    <td align=center>2</td>
+  </tr>
+  <tr>
+  <td colspan=2 align=center>40mm</td>
+</tr> 
+  <tr>
+    <td align=center>Base_40mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Cover_40mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Clips</td>
+    <td align=center>3</td>
+  </tr>
+  <tr>
+  <td colspan=2 align=center>50mm</td>
+</tr> 
+  <tr>
+    <td align=center>Base_50mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Cover_50mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Clips</td>
+    <td align=center>4</td>
+  </tr>
+  <tr>
+  <td colspan=2 align=center>82mm</td>
+</tr> 
+  <tr>
+    <td align=center>Base_82mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Cover_82mm</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>Clips</td>
+    <td align=center>7</td>
+  </tr>
+  <tr>
   <td colspan=2 align=center>140mm</td>
 </tr> 
   <tr>
