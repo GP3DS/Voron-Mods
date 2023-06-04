@@ -1,4 +1,4 @@
-## Stronger cable duct
+## Stronger Central cable duct
 
 Creation inspired by different existing elements for cable crossings.
 We were tired of seeing the clips break with each disassembly (as rare as they may be, it's never pleasant)
