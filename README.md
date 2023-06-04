@@ -20,6 +20,11 @@
   </tr>
   <tr>
     <td align="center">
+    <a href="./Central_cable_duct">Central Cable Duct <br><img src="./Central_cable_duct/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
+    <td align="center">Voron 2.4</td>   
+  </tr>
+  <tr>
+    <td align="center">
       <a href="./Cable_Duct">Cable Duct (25-40-50-82-140-200-305mm)<br><img src="./Cable_Duct/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
     <td align="center">Voron 2.4</td>   
   </tr>
