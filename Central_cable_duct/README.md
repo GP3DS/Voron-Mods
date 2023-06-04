@@ -9,23 +9,35 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
     <td align=center>In Place</td>
   </tr>
   <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Concept_screenshot.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/In_Place.jpg" alt="1" width=300px></td>
-  </tr>
-
-</table> 
-
-<table align=center>
-  <tr>
-    <td align=center colspan=3>For each dimension, you will need a base and a cover and some clips</td>
-  </tr>
-  <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Base.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Cover.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/clip.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/Concept_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/In_Place.jpg" alt="1" width=300px></td>
   </tr>
     <tr>
-    <td align=center colspan=3>/!\ To printing the clips, support and raft are necessary /!\ .</td>
+    <td colspan=2 align=center>For each parts, you will need a base and a cover and some clips</td>
+  </tr>
+</table> 
+<table align=center>
+     <tr>
+    <td align=center colspan=3>No Hole Base</td>
+  </tr>
+  <tr>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/Base.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/Cover.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/concept_Clip.png" alt="1" width=300px></td>
+  </tr>
+</table> 
+<table align=center>
+  <tr>
+    <td colspan=4 align=center>With Hole Base</td>
+  </tr>
+  <tr>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/Base_hole.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/Cover.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/concept_Clip.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/concept_Clip_hole.png" alt="1" width=300px></td>
+  </tr>
+    <tr>
+    <td align=center colspan=4>/!\ To printing the clips, support and raft are necessary /!\ .</td>
   </tr>
 </table> 
 
@@ -40,108 +52,37 @@ To fix duct cables, use double-sided tape
     <td align=center>For 1 cable duct</td>
   </tr>
   <tr>
-  <td colspan=2 align=center>25mm</td>
+  <td colspan=2 align=center>NO Hole</td>
 </tr> 
   <tr>
-    <td align=center>Base_25mm</td>
+    <td align=center>Central_base_NO_hole</td>
     <td align=center>1</td>
   </tr>
   <tr>
-    <td align=center>Cover_25mm</td>
+    <td align=center>Central_cover</td>
     <td align=center>1</td>
   </tr>
   <tr>
-    <td align=center>Clips</td>
-    <td align=center>2</td>
-  </tr>
-  <tr>
-  <td colspan=2 align=center>40mm</td>
-</tr> 
-  <tr>
-    <td align=center>Base_40mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Cover_40mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Clips</td>
-    <td align=center>3</td>
-  </tr>
-  <tr>
-  <td colspan=2 align=center>50mm</td>
-</tr> 
-  <tr>
-    <td align=center>Base_50mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Cover_50mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Clips</td>
-    <td align=center>4</td>
-  </tr>
-  <tr>
-  <td colspan=2 align=center>82mm</td>
-</tr> 
-  <tr>
-    <td align=center>Base_82mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Cover_82mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Clips</td>
-    <td align=center>7</td>
-  </tr>
-  <tr>
-  <td colspan=2 align=center>140mm</td>
-</tr> 
-  <tr>
-    <td align=center>Base_140mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Cover_140mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Clips</td>
-    <td align=center>12</td>
-  </tr>
-  <tr>
-  <td colspan=2 align=center>200mm</td>
-</tr> 
-  <tr>
-    <td align=center>Base_200mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Cover_200mm</td>
-    <td align=center>1</td>
-  </tr>
-  <tr>
-    <td align=center>Clips</td>
+    <td align=center>Central_clip</td>
     <td align=center>17</td>
   </tr>
   <tr>
-  <td colspan=2 align=center>305mm</td>
+    <td colspan=2 align=center>With Hole</td>
 </tr> 
   <tr>
-    <td align=center>Base_305mm</td>
+    <td align=center>Central_base_hole</td>
     <td align=center>1</td>
   </tr>
   <tr>
-    <td align=center>Cover_305mm</td>
+    <td align=center>Central_cover</td>
     <td align=center>1</td>
   </tr>
   <tr>
-    <td align=center>Clips</td>
-    <td align=center>25</td>
+    <td align=center>Central_clip</td>
+    <td align=center>15</td>
+  </tr>
+  <tr>
+    <td align=center>Central_clip_hole</td>
+    <td align=center>1</td>
   </tr>
 </table>
