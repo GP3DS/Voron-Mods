@@ -13,7 +13,7 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/In_Place.jpg" alt="1" width=300px></td>
   </tr>
     <tr>
-    <td colspan=2 align=center>For each parts, you will need a base and a cover and some clips</td>
+    <td colspan=2 align=center>For each parts, you will need a base, a cover and some clips</td>
   </tr>
 </table> 
 <table align=center>
