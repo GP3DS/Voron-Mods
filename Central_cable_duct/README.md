@@ -37,7 +37,7 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Central_cable_duct/Images/concept_Clip_hole.png" alt="1" width=300px></td>
   </tr>
     <tr>
-    <td align=center colspan=4>/!\ To print the clips, support and brim are necessary /!\ .</td>
+    <td align=center colspan=4>/!\ To print the clips, supports and brim are necessary /!\ .</td>
   </tr>
 </table> 
 
