@@ -17,7 +17,7 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
 
 <table align=center>
   <tr>
-    <td align=center colspan=3>For each dimension, you will need a base and a cover and some clips</td>
+    <td align=center colspan=3>For each dimension, you will need a base, a cover and some clips</td>
   </tr>
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/Base.png" alt="1" width=300px></td>
@@ -25,7 +25,7 @@ We were tired of seeing the clips break with each disassembly (as rare as they m
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Cable_Duct/Images/clip.png" alt="1" width=300px></td>
   </tr>
     <tr>
-    <td align=center colspan=3>/!\ To printing the clips, support and brim are necessary /!\ .</td>
+    <td align=center colspan=3>/!\ To print the clips, support and brim are necessary /!\ .</td>
   </tr>
 </table> 
 
