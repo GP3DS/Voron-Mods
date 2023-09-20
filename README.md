@@ -53,4 +53,9 @@
       <a href="./V0_Cheetah_V2_bracket">Fysetc Cheetah V2.0 bracket frame mount for V0<br><img src="./V0_Cheetah_V2_bracket/Images/Concept.png" alt="1" width=300px></a></td>
     <td align="center">Voron V0.1 and V0.2 and any printer with 2020 or 1515 Slots</td>   
   </tr>
+  <tr>
+    <td align="center">
+      <a href="./TOOL_Dual_Belt_Helper">Dual Belt tool holder helper<br><img src="./TOOL_Dual_Belt_Helper/Images/concept_screenshot.png" alt="1" width=300px></a></td>
+    <td align="center">Voron V2.4, Voron Trident and any Core XY printer with 2 belts </td>   
+  </tr>
 </table>
