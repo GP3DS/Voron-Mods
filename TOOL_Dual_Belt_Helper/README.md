@@ -1,5 +1,4 @@
-
-# Slot Cover for 2020 Profil
+# Dual Belt tool holder helper
 
 ![installation_screenshot](https://github.com/GP3DS/Voron-Mods/blob/main/TOOL_Dual_Belt_Helper/Images/installation_screenshot.png)
 
