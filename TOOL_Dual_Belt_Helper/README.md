@@ -4,7 +4,7 @@
 
 
 # BOM
-To fix duct cables, use double-sided tape
+
 
 <table>
   <tr>
