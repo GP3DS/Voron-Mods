@@ -9,7 +9,7 @@
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Concept_screenshot.png" alt="1" width=300px></td>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Concept_screenshot_back.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/In_Place.jpg" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/In_Place.png" alt="1" width=300px></td>
   </tr>
 </table> 
 
