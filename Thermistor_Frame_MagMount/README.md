@@ -8,25 +8,10 @@
   </tr>
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Concept_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Concept_screenshot_back.png" alt="1" width=300px></td>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/In_Place.jpg" alt="1" width=300px></td>
   </tr>
-
 </table> 
-
-<table align=center>
-  <tr>
-    <td align=center colspan=3>For each dimension, you will need a base, a cover and some clips</td>
-  </tr>
-  <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Base.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Cover.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/clip.png" alt="1" width=300px></td>
-  </tr>
-    <tr>
-    <td align=center colspan=3>/!\ To print the clips, supports and brim are necessary /!\ .</td>
-  </tr>
-</table> 
-
 
 
 # BOM
@@ -35,6 +20,7 @@
   <tr>
     <td align=center>Parts</td>
     <td align=center>Qty</td>
+    <td rowspan=6><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Hardware_parts.png" alt="1" width=300px></td>
   </tr>
   <tr>
     <td align=center>[a]_Thermistor_frame_magmount.stl</td>
