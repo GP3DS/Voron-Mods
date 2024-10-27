@@ -7,7 +7,7 @@
     <td align=center>In Place</td>
   </tr>
   <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Silicone_brush_holderMount/Images/Concept_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Silicone_brush_holder/Images/Concept_screenshot.png" alt="1" width=300px></td>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Silicone_brush_holder/Images/Concept_in_place.png" alt="1" width=300px></td>
   </tr>
 </table> 
