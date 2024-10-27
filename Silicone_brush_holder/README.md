@@ -1,5 +1,8 @@
 ## Silicone Brush Mount
 
+You can print a Silicone_brush_holder_1mm_spacer.stl to the height you want by enlarging in Z axis.
+
+By doing this, you may have to change the BHC m3x6 screws for longer ones
 
 <table align=center>
   <tr>
