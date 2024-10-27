@@ -4,7 +4,7 @@
 <table align=center>
   <tr>
     <td align=center>Concept</td>
-    <td align=center>In Place</td>
+    <td colspan=2 align=center>In Place</td>
   </tr>
   <tr>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Thermistor_Frame_MagMount/Images/Concept_screenshot.png" alt="1" width=300px></td>
