@@ -68,4 +68,9 @@
       <a href="./Thermistor_Frame_MagMount">Termistor frame mag mount<br><img src="./Thermistor_Frame_MagMount/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
     <td align="center">any printer need a thermistor mount with frame 2020 V Slot </td>   
   </tr>
+  <tr>
+    <td align="center">
+      <a href="./Silicone_brush_holder">Silicone Brush Holder<br><img src="./Silicone_brush_holder/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
+    <td align="center">any printer with frame 2020 V Slot </td>   
+  </tr>
 </table>
