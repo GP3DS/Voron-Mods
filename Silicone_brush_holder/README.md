@@ -1,5 +1,7 @@
 ## Silicone Brush Mount
 
+The brush I use is a Bambulab A1
+
 You can print a Silicone_brush_holder_1mm_spacer.stl to the height you want by enlarging in Z axis.
 
 By doing this, you may have to change the BHC m3x6 screws for longer ones
@@ -24,7 +26,7 @@ By doing this, you may have to change the BHC m3x6 screws for longer ones
     <td align=center>Qty</td>
   </tr>
   <tr>
-    <td colspan=2 3D Print Parts</td>
+    <td colspan=2 align=center> 3D Print Parts</td>
   </tr>
   <tr>
     <td align=center>[a]_Purge_bucket_silicone_brush_base.stl</td>
@@ -39,9 +41,13 @@ By doing this, you may have to change the BHC m3x6 screws for longer ones
     <td align=center>1</td>
   </tr>
   <tr>
-    <td colspan=2 Hardware</td>
+    <td colspan=2 align=center> Hardware</td>
   </tr>
-    <tr>
+  <tr>
+    <td align=center>Silicone Brush (A1)</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
     <td align=center>m3 Threaded Insert (m3 x 5mm x 4mm)</td>
     <td align=center>4</td>
   </tr>
