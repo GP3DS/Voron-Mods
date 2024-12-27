@@ -12,7 +12,7 @@ Based on Ette's work, we created this support to attach an ERCP spool directly t
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_frame_mount/Images/general_screenshot.png" alt="1" width=300px></td>
     <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/ERCP_frame_mount/Images/Parts_screenshot.png" alt="1" width=300px></td>
   </tr>
-
+</table>
 
 
 # BOM
