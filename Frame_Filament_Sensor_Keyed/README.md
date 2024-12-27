@@ -9,12 +9,12 @@
     <td align=center>Parts</td>
   </tr>
   <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/FFSK/Images/general_screenshot.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/FFSK/Images/Parts_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Frame_Filament_Sensor_Keyed/Images/general_screenshot.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Frame_Filament_Sensor_Keyed/Images/Parts_screenshot.png" alt="1" width=300px></td>
   </tr>
     <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/FFSK/Images/In_Place.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/FFSK/Images/Inside.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Frame_Filament_Sensor_Keyed/Images/In_Place.png" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/Frame_Filament_Sensor_Keyed/Images/Inside.png" alt="1" width=300px></td>
   </tr>
 </table>
 
