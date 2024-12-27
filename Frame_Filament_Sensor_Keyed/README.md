@@ -20,6 +20,9 @@
 
 <table>
   <tr>
+    <td colspan=2 align=center>BOM</td>
+  </tr>  
+  <tr>
     <td colspan=2 align=center>Not to print</td>
   </tr>  
   <tr>
