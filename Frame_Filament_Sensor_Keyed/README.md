@@ -1,7 +1,7 @@
 <h1 align="center">Frame Filament Sensor Keyed (FFSK)</h1>
 
  <p align="center">Capteur de filament sur profilé 2020 sans outils pour des panel d'epaisseur </p>
-
+ <p align="center">For MMU printing, you can print FFSK_Bottom + [a]_FFSK_Bottom and select witch color you want </p>
 
 <table align=center>
   <tr>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-<table>
+<table align=center>
   <tr>
     <td colspan=2 align=center>BOM</td>
   </tr>  
@@ -71,9 +71,6 @@
   <tr>
     <td align=center>FFSK_Bottom</td>
     <td align=center>1</td>
-  </tr>  
-  <tr>
-    <td colspan=2 align=center>For MMU printing, you can print FFSK_Bottom + [a]_FFSK_Bottom and select witch color you want</td>
   </tr>  
 </table>
 
