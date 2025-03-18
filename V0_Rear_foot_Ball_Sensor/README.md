@@ -1,23 +1,17 @@
-## X Carriage for Voron V0.2 with Y endstop
+## Rear Foot Ball Sensor for v0.2
 
+I had some troubbles with the original foot including a bearing for the filament sensor, so I designed this mod with a 5.5mm steel ball
 
-X Carriage Mini Stealthburner for V0.1 and V0.2 upgrade (MCU That does not support sensorless homing)
+The filament is now detected without false tolerances ;-)
 
 <table align=center>
   <tr>
     <td align=center>Concept</td>
-    <td align=center>Parts</td>
-    <td align=center>In Place</td>
-    <td align=center>Out Place</td>
   </tr>
   <tr>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_X_Carriage_with_endstop/Images/Concept_screenshot.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_X_Carriage_with_endstop/Images/Screenshot_part.png" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_X_Carriage_with_endstop/Images/Front_In_Place.jpg" alt="1" width=300px></td>
-    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_X_Carriage_with_endstop/Images/Back_In_Place.jpg" alt="1" width=300px></td>
+    <td align=center><img src="https://github.com/GP3DS/Voron-Mods/blob/main/V0_Rear_foot_Ball_Sensor/Images/Concept_screenshot.png" alt="1" width=300px></td>
   </tr>
-
-You may have to change the two screws of the XY attached
+</table>
 
 
 # BOM
@@ -27,6 +21,21 @@ You may have to change the two screws of the XY attached
   </tr> 
   <tr>
     <td align=center>X_carriage_Endstoped</td>
-    <td align=center>[a]_Bumper_Y_endstop</td>
+    <td align=center>rear_foot_ball_sensor.stl</td>
+  </tr>
+    <tr>
+    <td colspan=2 align=center>Hardware</td>
+  </tr> 
+  <tr>
+    <td align=center>Screws CHC m2x10</td>
+    <td align=center>2</td>
+  </tr>
+  <tr>
+    <td align=center>Microswitch D2F-01</td>
+    <td align=center>1</td>
+  </tr>
+  <tr>
+    <td align=center>steel ball 5.5mm</td>
+    <td align=center>1</td>
   </tr>
 </table>
