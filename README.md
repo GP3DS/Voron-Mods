@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="./V0_Rear_foot_Ball_Sensor">Frame Filament Sensor Keyed (FFSK)<br><img src="./V0_Rear_foot_Ball_Sensor/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
+      <a href="./V0_Rear_foot_Ball_Sensor">Rear Foot Ball Sensor for v0.2<br><img src="./V0_Rear_foot_Ball_Sensor/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
     <td align="center">Voron V0</td>   
   </tr>
 </table>
