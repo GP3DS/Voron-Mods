@@ -83,6 +83,11 @@
       <a href="./V0_Rear_foot_Ball_Sensor">Rear Foot Ball Sensor for v0.2<br><img src="./V0_Rear_foot_Ball_Sensor/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
     <td align="center">Voron V0</td>   
   </tr>
+  <tr>
+    <td align="center">
+      <a href="./V2.4_rear_skirt_No_Hole">Rear Skirt without keystone hole<br><img src="./V2.4_rear_skirt_No_Hole/Images/Concept_screenshot.png" alt="1" width=300px></a></td>
+    <td align="center">Voron V2.4</td>   
+  </tr>
 </table>
 
 
